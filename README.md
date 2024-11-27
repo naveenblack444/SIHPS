@@ -61,7 +61,15 @@ ARCHITECTURE DIAGRAM
 
 
 
+
+
 ## Use Cases
+
+USE CASE DIAGRAM :
+
+![image](https://github.com/user-attachments/assets/74919785-e79f-439f-95c6-d9a78f67136e)
+
+
 1. Networking and Professional Growth
 Description: Alumni connect with peers in similar industries, share opportunities, and collaborate on projects.
 Example: An alumnus finds a business partner or mentor through the platform’s professional interest groups.
